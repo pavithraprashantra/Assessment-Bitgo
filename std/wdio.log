@@ -1,0 +1,4 @@
+2025-05-30T12:20:16.787Z INFO @wdio/local-runner: Start worker 0-0 with arg: run,./wdio.conf.js
+2025-05-30T12:20:30.843Z INFO @wdio/local-runner: Shutting down spawned worker
+2025-05-30T12:20:31.093Z INFO @wdio/local-runner: Waiting for 0 to shut down gracefully
+Run onComplete hook

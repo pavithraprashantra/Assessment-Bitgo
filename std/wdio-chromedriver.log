@@ -1,0 +1,7 @@
+Starting ChromeDriver 134.0.6998.165 (fd886e2cb29dd984c13deec032832dee68d8abe3-refs/branch-heads/6998@{#2122}) on port 9515
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully on port 9515.
+[1748607621.116][WARNING]: Deprecated chrome option is ignored: useAutomationExtension
+[1748607621.116][WARNING]: Deprecated chrome option is ignored: useAutomationExtension
+[1748607622.943][WARNING]: This version of ChromeDriver has not been tested with Chrome version 135.

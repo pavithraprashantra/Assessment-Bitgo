@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "/div[2]/div[@class=\"vins\"]/div[@class=\"vin\"]"
+}

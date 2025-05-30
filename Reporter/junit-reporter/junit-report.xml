@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="1" failures="0" errors="0" skipped="0">
+  <testsuite name="Transaction Explorer UI Automation" timestamp="2025-05-30T17:50:23" time="6.861" tests="1" failures="0" errors="0" skipped="0">
+    <properties>
+      <property name="specId" value="0"/>
+      <property name="featureName" value="Transaction Explorer UI Automation"/>
+      <property name="capabilities" value="chrome.135_0_7049_96.windows"/>
+      <property name="featureFile" value=".\features\Handsons\transactionExplorer.feature"/>
+    </properties>
+    <testcase classname="CucumberJUnitReport-chrome.135_0_7049_96.windows.Transaction Explorer UI Automation" name="Page Navigation and Headings" time="6.825">
+      <system-out><![CDATA[
+✅ When Launch Browser and Validate the Header✅ Then Parse through the Transactions Available
+]]></system-out>
+    </testcase>
+  </testsuite>
+</testsuites>
